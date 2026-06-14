@@ -1,0 +1,38 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>SyncBoard | Workflow Manager</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+    <header class="board-header">
+        <h1>SyncBoard</h1>
+        <div class="controls">
+            <input type="text" id="new-task-input" placeholder="What needs to be done?">
+            <button id="add-task-btn">+ Add Task</button>
+        </div>
+    </header>
+
+    <main class="kanban-board">
+        <section class="column" data-column="todo">
+            <h2 class="column-header">To Do</h2>
+            <div class="task-list" id="todo-list">
+                </div>
+        </section>
+
+        <section class="column" data-column="in-progress">
+            <h2 class="column-header">In Progress</h2>
+            <div class="task-list" id="in-progress-list"></div>
+        </section>
+
+        <section class="column" data-column="done">
+            <h2 class="column-header">Done</h2>
+            <div class="task-list" id="done-list"></div>
+        </section>
+    </main>
+
+    <script src="app.js"></script>
+</body>
+</html>
