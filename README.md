@@ -25,7 +25,7 @@ SyncBoard is a lightweight, frontend-only Kanban board designed to manage projec
 - **Event Optimization:** Bound drag events only to individual elements while binding drop zones to parent containers, optimizing memory usage and avoiding event listener bloat.
 
 ## 🚀 Getting Started
-1. Clone the repository: `git clone https://github.com/yourusername/syncboard.git`
+1. Clone the repository: `git clone [https://github.com/yourusername/syncboard.git](https://github.com/Sanjayreddi/syncboard)`
 2. Open `index.html` in your preferred web browser. 
 3. No build tools or backend servers are required.
 
