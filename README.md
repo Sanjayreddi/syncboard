@@ -5,7 +5,7 @@
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 
 ## 🚀 Live Demo
-**[View SyncBoard Live on Vercel]([https://syncboard-demo.vercel.app/](https://syncboard-six.vercel.app/))**
+**[View SyncBoard Live on Vercel][https://syncboard-demo.vercel.app/](https://syncboard-six.vercel.app/)**
 
 ## 📸 Project Preview
 ![SyncBoard App Screenshot](./screenshot.png) 
